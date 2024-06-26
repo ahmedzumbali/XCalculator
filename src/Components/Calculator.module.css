@@ -1,0 +1,15 @@
+
+.app{
+  text-align: center;
+  }
+  button{
+      margin :8px;
+      height:50px;
+      width:50px;
+      border-radius:8px;
+  }
+  
+  button.parent{
+      margin-top:25px;
+  }
+  
